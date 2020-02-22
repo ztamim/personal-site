@@ -1,0 +1,121 @@
+body {
+    font-family: 'Roboto', ;
+    margin:0;
+}
+
+h1{
+    font-size: 45px;
+}
+
+.half-width h1{
+    color: #EC4C79;
+    font-size:45px;
+}
+
+.half-width h2{
+    font-size:30px;
+    font-weight: 900;
+  
+}
+
+p{
+    color: dimgray;
+    font-weight: 300;
+}
+
+.half-width img{
+    width:80%;
+}
+
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:8%;
+  
+}
+.text1{
+    margin-top:100px;
+}
+
+.section1{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:550px;
+}
+.section2{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:550px;
+}
+
+.section4{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:400px;
+    text-align: center;
+
+}
+
+section{
+    height:600px;
+    margin-bottom: 10px;
+}
+
+.work-area img{
+   width:27%;
+   margin-left:30px;
+}
+
+.work-area h1 {
+    text-align: center;
+    font-size:40px;
+}
+
+.work-area{
+    margin-top:100px;
+    height: 400px;
+}
+
+.work{
+    margin-left:10%;
+}
+
+.button{
+    text-decoration: none;
+    background-color: #EC4C79;
+    border-radius: 5px;
+    padding: 5px 20px;
+    color: whitesmoke;
+
+}
+.client-area h1{
+    text-align: center;
+}
+
+.mailbox {
+    
+    
+}
+
+
+
+.mail {
+    background-color: #EC4C79;
+    border-radius: 5px;
+    padding: 5px 20px;
+    color: whitesmoke;
+    width:500px;
+    margin:0 auto;
+    height: 100px;
+    margin-top: 29px;
+}
+
+
+
+footer {
+    text-align: center;
+}
+
